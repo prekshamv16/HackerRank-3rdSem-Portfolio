@@ -17,19 +17,24 @@ HackerRank Profile: [Preksha MV](https://www.hackerrank.com/profile/prekshamv16)
 ## HackerRank Submissions
 
 ### 1. Diagonal Difference
-Accepted submission screenshot will be added here.
+
+![Diagonal Difference](Screenshot%202026-10-01%20192258.png)
 
 ### 2. Dynamic Array
-Accepted submission screenshot will be added here.
+
+![Dynamic Array](Screenshot%202026-10-01%20192621.png)
 
 ### 3. Time Conversion
-Accepted submission screenshot will be added here.
+
+![Time Conversion](Screenshot%202026-10-01%20192848.png)
 
 ### 4. Compare the Triplets
-Accepted submission screenshot will be added here.
+
+![Compare the Triplets](Screenshot%202026-10-01%20192949.png)
 
 ### 5. Sparse Arrays
-Accepted submission screenshot will be added here.
+
+![Sparse Arrays](Screenshot%202026-10-01%20193109.png)
 
 ## HackerRank Badge
 
