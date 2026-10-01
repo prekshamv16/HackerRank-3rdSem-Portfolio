@@ -38,8 +38,7 @@ HackerRank Profile: [Preksha MV](https://www.hackerrank.com/profile/prekshamv16)
 
 ## HackerRank Badge
 
-![HackerRank 3 Star Badge](Screenshot 2026-10-01 201122.png)
-
+![HackerRank 3 Star Badge](Screenshot%202026-10-01%20201122.png)
 ## About
 
 This repository contains my C++ solutions for the five mandatory HackerRank problems completed as part of my 3rd Semester Portfolio Activity.
