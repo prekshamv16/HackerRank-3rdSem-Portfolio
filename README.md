@@ -38,7 +38,7 @@ HackerRank Profile: [Preksha MV](https://www.hackerrank.com/profile/prekshamv16)
 
 ## HackerRank Badge
 
-HackerRank badge screenshot will be added here.
+![HackerRank 3 Star Badge](Screenshot 2026-10-01 201122.png)
 
 ## About
 
